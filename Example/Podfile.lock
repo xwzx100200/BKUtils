@@ -1,0 +1,16 @@
+PODS:
+  - BKUtils (1.0.0)
+
+DEPENDENCIES:
+  - BKUtils (from `../`)
+
+EXTERNAL SOURCES:
+  BKUtils:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BKUtils: a93ca0997063fe46d67c0c56320ec3b4637d238a
+
+PODFILE CHECKSUM: 4ae41636755ea098c612528f7bcae785914d5d31
+
+COCOAPODS: 1.9.1
